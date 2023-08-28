@@ -2,9 +2,11 @@
 
 Submitted by: **Manni Mashaee**
 
-**codePath-ios101** is an app that shows my info [TODO] 
+**codePath-ios101** is an app that shows my info 
+[TODO] 
 
-Time spent: **2** hours spent in total
+
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -17,20 +19,21 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+<img src='https://i.imgur.com/c8eayeR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+ -->
 
 ## App Brainstorming (Step 4)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+1. improve my app aestethic.
+2. connect it to an online datebase with firebase that could update the label information.
+3. send the info in the app in an email message
 
 ## License
 
