@@ -2,9 +2,9 @@
 
 Submitted by: **Manni Mashaee**
 
-**codePath-ios101** is an app that... [TODO] 
+**codePath-ios101** is an app that shows my info [TODO] 
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
