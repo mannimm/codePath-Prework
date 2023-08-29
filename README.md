@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
-![Kapture 2023-08-28 at 23.48.35.gif](https://github.com/mannimm/)
+![Kapture 2023-08-28 at 23.48.35.gif](https://github.com/mannimm/codePath-Prework/blob/fdd67087f873634caeeadc439ca37e2b38516d9d/Kapture%202023-08-28%20at%2023.48.35.gif)
 
 <!-- Kap -->
 GIF created with  Kap (https://getkap.co/) for macOS
